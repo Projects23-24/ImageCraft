@@ -21,7 +21,7 @@
 
 
 module average_pixel(
-input [3:0] p1,p2,p3,p4,p5,p6,p7,p8,p9,
+    input [3:0] p1,p2,p3,p4,p5,p6,p7,p8,p9,
 output [3:0] o1
     );
     
